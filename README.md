@@ -98,14 +98,6 @@ You can personalize your bot’s behavior by editing the **AI Agent system messa
 
 ---
 
-## 📈 Future Improvements
-
-- Add **stock or news analysis** using APIs  
-- Integrate **language translation** for multilingual support  
-- Connect with other services like **Google Calendar** or **Weather APIs**  
-
----
-
 ## 📜 License
 
 This project is **MIT Licensed** – feel free to use, modify, and distribute.  
