@@ -1,4 +1,4 @@
-![Telegram AI Assistant](https://i.imgur.com/e4bEkyM.png)
+![Telegram AI Assistant]((https://imgur.com/a/e4bEkyM))
 
 # 🤖 Telegram AI Assistant with n8n & GPT-4
 
