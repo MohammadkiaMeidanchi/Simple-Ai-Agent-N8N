@@ -1,5 +1,3 @@
-![Telegram AI Assistant](https://i.imgur.com/e4bEkyM.png)
-
 # 🤖 Telegram AI Assistant with n8n & GPT-4
 
 A **smart, memory-enabled Telegram chatbot** built using **n8n** and **OpenAI GPT-4.1-mini**.  
